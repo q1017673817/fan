@@ -67,7 +67,7 @@
 {"name":"iptv","type":0,"url":"https://gitee.com/q1017673817/fan/raw/iptv/iptv.txt","playerType":1},
 {"name":"zubo","type":0,"url":"https://gitee.com/q1017673817/fan/raw/iptv/zubo.txt","playerType":1},
 {"name":"iptv备1","type":0,"url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/iptv.txt","playerType":1},
-{"name":"zubo备","type":0,"url":"https://ghproxy.cn/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo1.txt","playerType":1},
+{"name":"zubo备","type":0,"url":"https://ghproxy.cn/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.txt","playerType":1},
 {"name":"iptv备2","type":0,"url":"https://ghproxy.cn/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/iptv.txt","playerType":1},
 
 {"name":"牛播一（仅新版影视仓┃ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
